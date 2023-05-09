@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 # 💫 About Me:
 -🌱 I’m currently learning Web Development and Problem Solving<br><br>- 💬 Ask me about  Frontend Development<br><br>-📫 How to reach me  siddhantstar252@gmail.com<br><br>-⚡ Fun fact I am Good because of God
