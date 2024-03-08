@@ -1,4 +1,4 @@
-<img src="frontend.png" alt="MasterHead" height="350px" width="100%">
+<img src="fimg.jpeg" alt="MasterHead" height="350px" width="100%" style="border-radius: 20px;">
 <h1 align="center">Hi 👋, I'm Siddhant Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
