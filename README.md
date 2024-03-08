@@ -1,5 +1,4 @@
-![MasterHead](<img src="https://github.com/Siddhant-Mahato/Siddhant-Mahato/assets/127202564/29478ba7-9bab-43cd-aba8-b06e0d4b18ea" alt="MasterHead" style="height: 300px;">
-)
+![MasterHead](![image](https://github.com/Siddhant-Mahato/Siddhant-Mahato/assets/127202564/c53ee765-a091-4119-845f-4e42805ccdf8))
 <h1 align="center">Hi 👋, I'm Siddhant Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
