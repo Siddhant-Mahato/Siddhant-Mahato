@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/Siddhant-Mahato/Siddhant-Mahato/assets/127202564/29478ba7-9bab-43cd-aba8-b06e0d4b18ea))
+![MasterHead](https://github.com/Siddhant-Mahato/Siddhant-Mahato/assets/127202564/29478ba7-9bab-43cd-aba8-b06e0d4b18ea)
 <h1 align="center">Hi 👋, I'm Siddhant Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
