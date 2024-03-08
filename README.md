@@ -1,4 +1,9 @@
-![MasterHead](https://github.com/Siddhant-Mahato/Siddhant-Mahato/assets/127202564/c53ee765-a091-4119-845f-4e42805ccdf8)
+<center>
+    <img src="frontend.png" alt="MasterHead" height="350px" width="100%">
+</center>
+
+
+
 <h1 align="center">Hi 👋, I'm Siddhant Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
