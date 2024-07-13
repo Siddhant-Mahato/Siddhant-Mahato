@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Siddhant Mahato</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
-<img align="right" alt="Coding" height="320" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" height="310" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-# 💫 About Me:
+
+# 💫 About Me: 
 -🌱 I’m currently learning Web Development and Problem Solving<br><br>- 💬 Ask me about  Frontend Development<br><br>-📫 How to reach me  siddhantstar252@gmail.com<br><br>-⚡ Fun fact I am Good because of God
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-mahato-029627234/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/StarSiddhant) 
